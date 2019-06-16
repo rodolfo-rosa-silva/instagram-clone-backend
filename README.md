@@ -1,4 +1,8 @@
-<h3  align="center">Backend de um clone do feed do Instagram</h3>
+<img src="https://i.imgur.com/MIF8IVj.png" title="source: imgur.com" />
+
+<br>
+
+<h3>Backend de um clone do feed do Instagram</h3>
 
 <p>Foi utilizado:</p>
 
